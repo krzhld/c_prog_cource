@@ -1,0 +1,12 @@
+MenuBegin
+	ButtonBegin
+		Position=130,10
+		Color=0
+		Name=start
+	ButtonEnd
+	ButtonBegin
+		Position=130,90
+		Color=0
+		Name=exit
+	ButtonEnd
+MenuEnd
